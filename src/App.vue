@@ -22,8 +22,6 @@ export default {
 
 <template>
   
-  <h1>hello</h1>
- 
  <AppHeader />
  <AppContent />
  <AppLogos />
@@ -31,8 +29,8 @@ export default {
 
 </template>
 
-<style>
-
+<style lang="scss">
+@use "./style/general.scss";
 
 
 </style>
