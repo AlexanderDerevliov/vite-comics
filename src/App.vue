@@ -14,7 +14,7 @@ export default {
 },
   data (){
     return{
-
+          
     }
   }
 }
@@ -22,7 +22,7 @@ export default {
 
 <template>
   
-  
+  <h1>hello</h1>
  
  <AppHeader />
  <AppContent />
